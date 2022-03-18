@@ -1,0 +1,2 @@
+com/nutriagora/nutriagora/BuildConfig.java
+ com.nutriagora.nutriagora.BuildConfig
