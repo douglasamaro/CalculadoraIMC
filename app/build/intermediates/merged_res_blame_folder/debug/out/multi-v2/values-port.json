@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/home/douglas/.gradle/caches/transforms-3/8b22dcc7b87613405aea71fb5468962d/transformed/appcompat-1.4.1/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-3\\8b22dcc7b87613405aea71fb5468962d\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

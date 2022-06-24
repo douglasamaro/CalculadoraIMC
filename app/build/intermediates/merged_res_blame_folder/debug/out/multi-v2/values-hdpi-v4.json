@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/douglas/.gradle/caches/transforms-3/8b22dcc7b87613405aea71fb5468962d/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-3\\8b22dcc7b87613405aea71fb5468962d\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,134 +1,134 @@
 [
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_extrabolditalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_extrabolditalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_semibold.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_regular.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_regular.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_lightitalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_lightitalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_extralightitalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/drawable_background.png.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/drawable/background.png"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_bolditalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_bolditalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_extralight.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_extralight.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_thinitalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_thinitalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_lightitalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_lightitalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_extralightitalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_extralightitalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_medium.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_medium.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_extralight.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_extralight.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_extrabold.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_extrabold.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_light.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_light.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_thinitalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_thinitalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_extrabold.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_extrabold.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_italic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_italic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_light.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_light.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_semibolditalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_thin.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_thin.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_bolditalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_bolditalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_black.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_black.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_blackitalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_blackitalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_blackitalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_blackitalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_italic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_italic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_black.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_black.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_extrabolditalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_semibold.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_semibold.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_mediumitalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_mediumitalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_semibolditalic.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_semibolditalic.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_medium.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_mediumitalic.ttf"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/font_montserrat_bold.ttf.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/font/montserrat_bold.ttf"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/douglas/kotlin/NutriAgora/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/douglas/kotlin/NutriAgora/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_thin.ttf.flat",
+        "source": "C:\\Users\\USUARIO\\StudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\font\\montserrat_thin.ttf"
     }
 ]

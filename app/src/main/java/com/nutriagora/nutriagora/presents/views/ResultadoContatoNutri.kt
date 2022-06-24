@@ -31,10 +31,11 @@ class ResultadoContatoNutri : ComponentActivity() {
         setContent {
             NutriAgoraTheme {
                 Surface(color = background) {
-                    Column(modifier = Modifier
-                        .fillMaxWidth()
-                        .verticalScroll(rememberScrollState())
-                        .fillMaxHeight()) {
+                    Column(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .fillMaxHeight()
+                    ) {
                         Menu()
                         Root()
                     }
@@ -62,21 +63,27 @@ class ResultadoContatoNutri : ComponentActivity() {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Title()
-            Column(modifier = Modifier
-                .padding(start = 35.dp, end = 35.dp)) {
-                    Resultado(IMCResult)
-                }
-            Description("Esse é uma descrição, uma chamada breve para o " +
-                    "usuário entender seu IMC e Clicar no botão abaixo.")
+            Column(
+                modifier = Modifier
+                    .padding(start = 35.dp, end = 35.dp)
+            ) {
+                Resultado(IMCResult)
+            }
+            Description(
+                "Esse é uma descrição, uma chamada breve para o " +
+                    "usuário entender seu IMC e Clicar no botão abaixo."
+            )
             CtaButton()
         }
     }
 
     @Composable
     fun CtaButton() {
-        Column(modifier = Modifier
-            .fillMaxWidth()
-            .padding(start = 20.dp, end = 20.dp, bottom = 30.dp)) {
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(start = 20.dp, end = 20.dp, bottom = 30.dp)
+        ) {
             Button(
                 modifier = Modifier
                     .fillMaxWidth(),
@@ -131,12 +138,14 @@ class ResultadoContatoNutri : ComponentActivity() {
 
     @Composable
     fun Resultado(conteudo: String) {
-        Column(modifier = Modifier
-            .padding(25.dp)
-            .border(2.dp, texte, CircleShape)
-            .aspectRatio(1f),
+        Column(
+            modifier = Modifier
+                .padding(25.dp)
+                .border(2.dp, texte, CircleShape)
+                .aspectRatio(1f),
             verticalArrangement = Arrangement.Center,
-            horizontalAlignment = Alignment.CenterHorizontally) {
+            horizontalAlignment = Alignment.CenterHorizontally
+        ) {
             Text(
                 conteudo,
                 style = MaterialTheme.typography.h3,

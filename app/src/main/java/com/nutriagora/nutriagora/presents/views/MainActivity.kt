@@ -2,7 +2,6 @@ package com.nutriagora.nutriagora.presents.views
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
@@ -11,33 +10,36 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.*
 import androidx.compose.material.MaterialTheme.typography
-import androidx.compose.runtime.*
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight.Companion.ExtraBold
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.tooling.preview.Preview
-import androidx.compose.ui.unit.*
+import androidx.compose.ui.unit.dp
 import com.nutriagora.nutriagora.domain.formatt.FormartterDecimal
 import com.nutriagora.nutriagora.domain.model.IMC
-import com.nutriagora.nutriagora.ui.theme.NutriAgoraTheme
 import com.nutriagora.nutriagora.ui.theme.*
 
 class MainActivity : ComponentActivity() {
 
-        var pesoConta: String = ""
-        var alturaConta: String = ""
-        var titulo: String = "Calcular IMC"
-        var msg: String = "----"
+    var pesoConta: String = ""
+    var alturaConta: String = ""
+    var titulo: String = "Calcular IMC"
+    var msg: String = "----"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             NutriAgoraTheme {
                 Surface(color = background) {
-                    Column(modifier = Modifier
-                        .fillMaxWidth()
-                        .fillMaxHeight()) {
+                    Column(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .fillMaxHeight()
+                    ) {
                         Menu()
                         Root()
                     }
@@ -51,10 +53,10 @@ class MainActivity : ComponentActivity() {
             msg = "Preencha todos os campos"
         } else if (alturaConta.toDouble() > 3) {
             msg = "digite a altura em metros \n" +
-                    "Exemplo: 1.7"
-        }
-        else {
-            val brutoResultIMC: Double = IMC(pesoConta.toDouble(), alturaConta.toDouble()).CalcularIMC()
+                "Exemplo: 1.7"
+        } else {
+            val brutoResultIMC: Double =
+                IMC(pesoConta.toDouble(), alturaConta.toDouble()).CalcularIMC()
             val resultIMC = FormartterDecimal().formartar(brutoResultIMC)
             intent = Intent(this@MainActivity, ResultadoContatoNutri::class.java)
             intent.putExtra("IMC", resultIMC)
@@ -79,12 +81,13 @@ class MainActivity : ComponentActivity() {
             CalcularButton()
         }
     }
+
     @Composable
     fun Menu() {
         TopAppBar(
             title = {
                 Text(
-                "NutriAgora",
+                    "NutriAgora",
                     style = typography.h2,
                     color = background,
                     modifier = Modifier.padding(5.dp)
@@ -138,7 +141,7 @@ class MainActivity : ComponentActivity() {
                 onValueChange = { peso.value = it },
                 placeholder = {
                     Text(
-                        text = "digite em kg",
+                        text = "digite em kg ex: 83.2",
                         style = com.nutriagora.nutriagora.ui.theme.typography.body1,
                         color = texte
                     )
@@ -155,7 +158,7 @@ class MainActivity : ComponentActivity() {
                     .padding(5.dp)
             )
         }
-      pesoConta = peso.value.text.toString()
+        pesoConta = peso.value.text
     }
 
     @Composable
@@ -176,7 +179,7 @@ class MainActivity : ComponentActivity() {
                 onValueChange = { altura.value = it },
                 placeholder = {
                     Text(
-                        text = "digite em cm",
+                        text = "digite em cm ex: 1.80",
                         style = com.nutriagora.nutriagora.ui.theme.typography.body1,
                         color = texte
                     )
